@@ -10197,7 +10197,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу: до тех пор пока не введена строка \"stop\" читать строки из cin потока и выводить их в cout поток. Если строка пустая, то вывести \"empty\"",
-                                "<a href=\"https://github.com/konsilerinos/kb/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/Cpp/3.txt\">Дополнительные-материалы/С++/3.txt</a>"
+                                "<a href=\"https://github.com/konsilerinos/books-knowledge/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/C%2B%2B/3-main.cpp\">Дополнительные-материалы/С++/3-main.cpp</a>"
                             ],
                             "guid": "u8<k3Cwpaf",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -10209,7 +10209,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу: до тех пор пока не введена строка \"stop\" читать строки из cin потока и выводить их размер в cout поток",
-                                "<a href=\"https://github.com/konsilerinos/kb/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/Cpp/4.txt\">Дополнительные-материалы/С++/4.txt</a>"
+                                "<a href=\"https://github.com/konsilerinos/books-knowledge/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/C%2B%2B/4-main.cpp\">Дополнительные-материалы/С++/4-main.cpp</a>"
                             ],
                             "guid": "cwn)u:R$5r",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -10221,7 +10221,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу: до тех пор пока не введена строка \"stop\" вводить пару строк и сравнивать их",
-                                "<a href=\"https://github.com/konsilerinos/kb/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/Cpp/1.txt\">Дополнительные-материалы/С++/1.txt</a>"
+                                "<a href=\"https://github.com/konsilerinos/books-knowledge/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/C%2B%2B/1-main.cpp\">Дополнительные-материалы/С++/1-main.cpp</a>"
                             ],
                             "guid": "Ftgmfh#uiN",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -10233,7 +10233,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу. На входе int n, char c, на выходе - string из n символов c",
-                                "<a href=\"https://github.com/konsilerinos/kb/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/Cpp/2.txt\">Дополнительные-материалы/С++/2.txt</a>"
+                                "<a href=\"https://github.com/konsilerinos/books-knowledge/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/C%2B%2B/2-main.cpp\">Дополнительные-материалы/С++/2-main.cpp</a>"
                             ],
                             "guid": "Fv.jXy*YV/",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
