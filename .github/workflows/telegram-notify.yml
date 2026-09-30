@@ -1,0 +1,67 @@
+name: Telegram Commit Notification
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Analyze Changes and Set Title
+        id: check-dir
+        run: |
+          git config --global core.quotepath false
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD)
+          
+          HAS_ANKI=false
+          HAS_MATERIALS=false
+          HAS_OTHERS=false
+
+          while IFS= read -r file; do
+            [[ -z "$file" ]] && continue
+            if [[ "$file" == Anki-экспорт/* ]]; then
+              HAS_ANKI=true
+            elif [[ "$file" == Дополнительные-материалы/* ]]; then
+              HAS_MATERIALS=true
+            else
+              HAS_OTHERS=true
+            fi
+          done <<< "$CHANGED_FILES"
+
+          if [ "$HAS_OTHERS" = true ] || { [ "$HAS_ANKI" = false ] && [ "$HAS_MATERIALS" = false ]; }; then
+            echo "send_notification=false" >> $GITHUB_OUTPUT
+          else
+            if [ "$HAS_ANKI" = true ] && [ "$HAS_MATERIALS" = false ]; then
+              echo "title=Anki-карточки обновлены" >> $GITHUB_OUTPUT
+            elif [ "$HAS_MATERIALS" = true ] && [ "$HAS_ANKI" = false ]; then
+              echo "title=Дополнительные материалы обновлены" >> $GITHUB_OUTPUT
+            else
+              echo "title=Annki-карточки и дополнительные материалы обновлены" >> $GITHUB_OUTPUT
+            fi
+            
+            RAW_MSG="${{ github.event.head_commit.message }}"
+            CLEAN_MSG=$(echo "$RAW_MSG" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g;')
+            
+            echo "commit_msg=$CLEAN_MSG" >> $GITHUB_OUTPUT
+            echo "send_notification=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Send Message to Telegram
+        if: steps.check-dir.outputs.send_notification == 'true'
+        uses: appleboy/telegram-action@v1
+        with:
+          to: ${{ secrets.TELEGRAM_CHAT_TOKEN }}
+          token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          format: html
+          message: |
+            <b>${{ steps.check-dir.outputs.title }}</b>
+            А именно: ${{ steps.check-dir.outputs.commit_msg }}
+            
+            🔗 <a href="${{ github.event.head_commit.url }}">Посмотреть изменения</a>
