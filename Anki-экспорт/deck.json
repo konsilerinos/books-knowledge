@@ -10285,8 +10285,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "about\n\nTODO She is about to call you плохой пример, нужно расширить значение слов\n\nTodo разница между how about и what about",
-                                        "x1: тематическая связь с чем-либо<br>x2: нахождение в пределах нестрогих границ чего-либо",
+                                        "about",
+                                        "x1: тематическая связь с чем-либо<br>x2: нахождение в пределах нестрогих границ чего-либо материального/нематериального",
                                         "{1, 0}<br>x1: слово указывает на тематическую связь дискуссии с изменением климата.",
                                         "about",
                                         "о",
@@ -11495,7 +11495,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "again<br><br>TODO then again, all over again. Значения слов, разобраться, почему именно такой перевод<br><br>TODO в чем разница между again и all over again. TODO разница между again, all over again, then again",
+                                        "again",
                                         "x1: повторение чего-либо<br>x2: возврат к предыдущему чему-либо",
                                         "{1, 0}<br>x1: слово указывает на повторное выполнение действия чтения.",
                                         "again",
@@ -11605,7 +11605,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "age<br><br>TODO пример со зданием отображается неправильно. С возрастом тоже",
+                                        "age",
                                         "x1: возраст<br>x2: период времени (эпоха)<br>x3: стареть",
                                         "{1, 0, 0}<br>x1: Слово указывает на количество прожитых лет конкретного человека.",
                                         "age",
@@ -11620,7 +11620,7 @@
                                         "{1, 0, 0}<br>x1: Слово указывает на количество лет, в течение которых существует объект.",
                                         "age",
                                         "возраст",
-                                        "возраст<br><br>The age of this building is unknown",
+                                        "The age of this building is unknown",
                                         "Возраст этого здания неизвестен.",
                                         "{0, 1, 0}<br>x2: Слово определяет целый исторический период, характеризуемый конкретными признаками.",
                                         "age",
@@ -11936,7 +11936,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "air",
-                                        "x1: воздух<br>x2: внешнее впечатление, манера поведения<br>x3: транслировать/высказывать что-либо<br>x4: воздействовать потоком воздуха\n\nTodo Менеджер говорил с видом authority - исправить ошибку",
+                                        "x1: воздух<br>x2: внешнее впечатление, манера поведения<br>x3: транслировать/высказывать что-либо<br>x4: воздействовать потоком воздуха",
                                         "{1, 0, 0, 0}<br>x1: слово указывает на газообразную среду, которую мы вдыхаем.",
                                         "air",
                                         "воздух",
@@ -11966,7 +11966,7 @@
                                         "air",
                                         "вид / манера",
                                         "The manager spoke with an air of authority.",
-                                        "Менеджер говорил с видом authority.",
+                                        "Менеджер говорил с властным видом.",
                                         "{0, 0, 1, 0}<br>x3: слово указывает на трансляцию программы по телевидению.",
                                         "air",
                                         "транслировать",
@@ -12394,8 +12394,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "about\n\nTODO She is about to call you плохой пример, нужно расширить значение слов\n\nTodo разница между how about и what about",
-                                        "x1: тематическая связь с чем-либо<br>x2: нахождение в пределах нестрогих границ чего-либо",
+                                        "about",
+                                        "x1: тематическая связь с чем-либо<br>x2: нахождение в пределах нестрогих границ чего-либо материального/нематериального",
                                         "{1, 0}<br>x1: слово указывает на тематическую связь дискуссии с изменением климата.",
                                         "about",
                                         "о",
@@ -13604,7 +13604,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "again<br><br>TODO then again, all over again. Значения слов, разобраться, почему именно такой перевод<br><br>TODO в чем разница между again и all over again. TODO разница между again, all over again, then again",
+                                        "again",
                                         "x1: повторение чего-либо<br>x2: возврат к предыдущему чему-либо",
                                         "{1, 0}<br>x1: слово указывает на повторное выполнение действия чтения.",
                                         "again",
@@ -13714,7 +13714,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "age<br><br>TODO пример со зданием отображается неправильно. С возрастом тоже",
+                                        "age",
                                         "x1: возраст<br>x2: период времени (эпоха)<br>x3: стареть",
                                         "{1, 0, 0}<br>x1: Слово указывает на количество прожитых лет конкретного человека.",
                                         "age",
@@ -13729,7 +13729,7 @@
                                         "{1, 0, 0}<br>x1: Слово указывает на количество лет, в течение которых существует объект.",
                                         "age",
                                         "возраст",
-                                        "возраст<br><br>The age of this building is unknown",
+                                        "The age of this building is unknown",
                                         "Возраст этого здания неизвестен.",
                                         "{0, 1, 0}<br>x2: Слово определяет целый исторический период, характеризуемый конкретными признаками.",
                                         "age",
@@ -14045,7 +14045,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "air",
-                                        "x1: воздух<br>x2: внешнее впечатление, манера поведения<br>x3: транслировать/высказывать что-либо<br>x4: воздействовать потоком воздуха\n\nTodo Менеджер говорил с видом authority - исправить ошибку",
+                                        "x1: воздух<br>x2: внешнее впечатление, манера поведения<br>x3: транслировать/высказывать что-либо<br>x4: воздействовать потоком воздуха",
                                         "{1, 0, 0, 0}<br>x1: слово указывает на газообразную среду, которую мы вдыхаем.",
                                         "air",
                                         "воздух",
@@ -14075,7 +14075,7 @@
                                         "air",
                                         "вид / манера",
                                         "The manager spoke with an air of authority.",
-                                        "Менеджер говорил с видом authority.",
+                                        "Менеджер говорил с властным видом.",
                                         "{0, 0, 1, 0}<br>x3: слово указывает на трансляцию программы по телевидению.",
                                         "air",
                                         "транслировать",
@@ -14503,8 +14503,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "about\n\nTODO She is about to call you плохой пример, нужно расширить значение слов\n\nTodo разница между how about и what about",
-                                        "x1: тематическая связь с чем-либо<br>x2: нахождение в пределах нестрогих границ чего-либо",
+                                        "about",
+                                        "x1: тематическая связь с чем-либо<br>x2: нахождение в пределах нестрогих границ чего-либо материального/нематериального",
                                         "{1, 0}<br>x1: слово указывает на тематическую связь дискуссии с изменением климата.",
                                         "about",
                                         "о",
@@ -15713,7 +15713,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "again<br><br>TODO then again, all over again. Значения слов, разобраться, почему именно такой перевод<br><br>TODO в чем разница между again и all over again. TODO разница между again, all over again, then again",
+                                        "again",
                                         "x1: повторение чего-либо<br>x2: возврат к предыдущему чему-либо",
                                         "{1, 0}<br>x1: слово указывает на повторное выполнение действия чтения.",
                                         "again",
@@ -15823,7 +15823,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "age<br><br>TODO пример со зданием отображается неправильно. С возрастом тоже",
+                                        "age",
                                         "x1: возраст<br>x2: период времени (эпоха)<br>x3: стареть",
                                         "{1, 0, 0}<br>x1: Слово указывает на количество прожитых лет конкретного человека.",
                                         "age",
@@ -15838,7 +15838,7 @@
                                         "{1, 0, 0}<br>x1: Слово указывает на количество лет, в течение которых существует объект.",
                                         "age",
                                         "возраст",
-                                        "возраст<br><br>The age of this building is unknown",
+                                        "The age of this building is unknown",
                                         "Возраст этого здания неизвестен.",
                                         "{0, 1, 0}<br>x2: Слово определяет целый исторический период, характеризуемый конкретными признаками.",
                                         "age",
@@ -16154,7 +16154,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "air",
-                                        "x1: воздух<br>x2: внешнее впечатление, манера поведения<br>x3: транслировать/высказывать что-либо<br>x4: воздействовать потоком воздуха\n\nTodo Менеджер говорил с видом authority - исправить ошибку",
+                                        "x1: воздух<br>x2: внешнее впечатление, манера поведения<br>x3: транслировать/высказывать что-либо<br>x4: воздействовать потоком воздуха",
                                         "{1, 0, 0, 0}<br>x1: слово указывает на газообразную среду, которую мы вдыхаем.",
                                         "air",
                                         "воздух",
@@ -16184,7 +16184,7 @@
                                         "air",
                                         "вид / манера",
                                         "The manager spoke with an air of authority.",
-                                        "Менеджер говорил с видом authority.",
+                                        "Менеджер говорил с властным видом.",
                                         "{0, 0, 1, 0}<br>x3: слово указывает на трансляцию программы по телевидению.",
                                         "air",
                                         "транслировать",
@@ -16593,163 +16593,6 @@
                             ],
                             "reviewLimit": 130,
                             "reviewLimitToday": null
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [
-                                {
-                                    "__type__": "Deck",
-                                    "children": [],
-                                    "crowdanki_uuid": "ec5ab61a-bc3d-11f1-92b6-4c1d96739640",
-                                    "deck_config_uuid": "ec5acaaa-bc3d-11f1-9326-4c1d96739640",
-                                    "desc": "",
-                                    "desiredRetention": null,
-                                    "dyn": 0,
-                                    "extendNew": 0,
-                                    "extendRev": 0,
-                                    "media_files": [],
-                                    "name": "[1] теория",
-                                    "newLimit": 10,
-                                    "newLimitToday": null,
-                                    "notes": [
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "Объяснить разницу между <code>action</code> и <code>activity</code> в контексте \"действие\"",
-                                                "action: конкретное действие, направленное на результат<br>activity: деятельность или процесс"
-                                            ],
-                                            "guid": "i;IaJ7#]<6",
-                                            "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                            "tags": []
-                                        }
-                                    ],
-                                    "reviewLimit": 130,
-                                    "reviewLimitToday": null
-                                },
-                                {
-                                    "__type__": "Deck",
-                                    "children": [],
-                                    "crowdanki_uuid": "ec5ac8f2-bc3d-11f1-940d-4c1d96739640",
-                                    "deck_config_uuid": "ec5acaaa-bc3d-11f1-9326-4c1d96739640",
-                                    "desc": "",
-                                    "desiredRetention": null,
-                                    "dyn": 0,
-                                    "extendNew": 0,
-                                    "extendRev": 0,
-                                    "media_files": [],
-                                    "name": "[2] практика",
-                                    "newLimit": 10,
-                                    "newLimitToday": null,
-                                    "notes": [
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "action / activity<br><br>Правительство должно принять немедленные меры для решения кризиса<br>The government must take immediate _ to address the crisis.",
-                                                "The government must take immediate action to address the crisis."
-                                            ],
-                                            "guid": "f%kOmCemTb",
-                                            "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "action / activity<br><br>Физическая активность необходима для поддержания хорошего здоровья<br>Physical _ is essential for maintaining good health.",
-                                                "Physical activity is essential for maintaining good health."
-                                            ],
-                                            "guid": "t~M<WVMSr]",
-                                            "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "action / activity<br><br>Его смелый поступок спас ребёнка из горящего здания<br>His brave _ saved the child from the burning building.",
-                                                "His brave action saved the child from the burning building."
-                                            ],
-                                            "guid": "ANl(|=]OR7",
-                                            "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "action / activity<br><br>Школа предлагает множество внеклассных занятий для учеников<br>The school offers many extracurricular _ for students.",
-                                                "The school offers many extracurricular activities for students."
-                                            ],
-                                            "guid": "rR=Y@JOv3y",
-                                            "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "action / activity<br><br>Пришло время действовать, а не давать пустые обещания<br>It's time for _, not just empty promises.",
-                                                "It's time for action, not just empty promises."
-                                            ],
-                                            "guid": "e_Wz.VOQ+;",
-                                            "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "action / activity<br><br>Учёные следят за вулканической активностью в регионе<br>Scientists are monitoring the volcanic _ in the region.",
-                                                "Scientists are monitoring the volcanic activity in the region."
-                                            ],
-                                            "guid": "t?]sMW_{-+",
-                                            "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "action / activity<br><br>Чтение — моё любимое занятие в тихие вечера<br>Reading is my favorite leisure _ on quiet evenings.",
-                                                "Reading is my favorite leisure activity on quiet evenings."
-                                            ],
-                                            "guid": "Gyv=[;_v}G",
-                                            "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "action / activity<br><br>У каждого действия есть последствия, хорошие или плохие<br>Every _ has consequences, whether good or bad.",
-                                                "Every action has consequences, whether good or bad."
-                                            ],
-                                            "guid": "Aj_eA&`m3c",
-                                            "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "action / activity<br><br>Полиция сообщила о необычной активности возле заброшенного склада<br>The police reported unusual _ near the abandoned warehouse.",
-                                                "The police reported unusual activity near the abandoned warehouse."
-                                            ],
-                                            "guid": "OkZg5xH~g|",
-                                            "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                            "tags": []
-                                        }
-                                    ],
-                                    "reviewLimit": 130,
-                                    "reviewLimitToday": null
-                                }
-                            ],
-                            "crowdanki_uuid": "ec5aa73c-bc3d-11f1-8eda-4c1d96739640",
-                            "deck_config_uuid": "ec5acaaa-bc3d-11f1-9326-4c1d96739640",
-                            "desc": "",
-                            "desiredRetention": null,
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "[4] значения",
-                            "newLimit": null,
-                            "newLimitToday": null,
-                            "notes": [],
-                            "reviewLimit": null,
-                            "reviewLimitToday": null
                         }
                     ],
                     "crowdanki_uuid": "ec594100-bc3d-11f1-afb3-4c1d96739640",
@@ -16760,7 +16603,334 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
-                    "name": "[1] слова",
+                    "name": "[1] слова изучение",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "ec5ab61a-bc3d-11f1-92b6-4c1d96739640",
+                            "deck_config_uuid": "ec5acaaa-bc3d-11f1-9326-4c1d96739640",
+                            "desc": "",
+                            "desiredRetention": null,
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "[1] теория",
+                            "newLimit": 10,
+                            "newLimitToday": null,
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Объяснить разницу между \"action\"&nbsp;и \"activity\" в контексте \"действие\"",
+                                        "action: конкретное действие, направленное на результат<br>activity: деятельность или процесс"
+                                    ],
+                                    "guid": "i;IaJ7#]<6",
+                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Объяснить разницу между \"how about\" и \"what about\"",
+                                        "how about: предложить какое-либо решение<br>what about: предложить обсудить какую-либо проблему<br><br>Во встречном вопросе они взаимозаменяемы"
+                                    ],
+                                    "guid": "tH-2.2s)_Y",
+                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Разница между \"again\" и \"all over again\" в контексте \"снова\"",
+                                        "again: выполнить что-то ещё один раз<br>all over again: выполнить что-то с самого начала"
+                                    ],
+                                    "guid": "LktF_}nmf1",
+                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "tags": []
+                                }
+                            ],
+                            "reviewLimit": 130,
+                            "reviewLimitToday": null
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "ec5ac8f2-bc3d-11f1-940d-4c1d96739640",
+                            "deck_config_uuid": "ec5acaaa-bc3d-11f1-9326-4c1d96739640",
+                            "desc": "",
+                            "desiredRetention": null,
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "[2] практика",
+                            "newLimit": 10,
+                            "newLimitToday": null,
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "action / activity<br><br>Правительство должно принять немедленные меры для решения кризиса<br>The government must take immediate {{c1::action}} to address the crisis.",
+                                        ""
+                                    ],
+                                    "guid": "f%kOmCemTb",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "action / activity<br><br>Физическая активность необходима для поддержания хорошего здоровья<br>Physical {{c1::activity}}&nbsp;is essential for maintaining good health.",
+                                        ""
+                                    ],
+                                    "guid": "t~M<WVMSr]",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "action / activity<br><br>Его смелый поступок спас ребёнка из горящего здания<br>His brave {{c1::activity}}&nbsp;saved the child from the burning building.",
+                                        ""
+                                    ],
+                                    "guid": "ANl(|=]OR7",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "action / activity<br><br>Школа предлагает множество внеклассных занятий для учеников<br>The school offers many extracurricular {{c1::activities}}&nbsp;for students.",
+                                        ""
+                                    ],
+                                    "guid": "rR=Y@JOv3y",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "action / activity<br><br>Пришло время действовать, а не давать пустые обещания<br>It's time for {{c1::action}}, not just empty promises.",
+                                        ""
+                                    ],
+                                    "guid": "e_Wz.VOQ+;",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "action / activity<br><br>Учёные следят за вулканической активностью в регионе<br>Scientists are monitoring the volcanic {{c1::activity}}&nbsp;in the region.",
+                                        ""
+                                    ],
+                                    "guid": "t?]sMW_{-+",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "action / activity<br><br>Чтение — моё любимое занятие в тихие вечера<br>Reading is my favorite leisure {{c1::activity}} on quiet evenings.",
+                                        ""
+                                    ],
+                                    "guid": "Gyv=[;_v}G",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "action / activity<br><br>У каждого действия есть последствия, хорошие или плохие<br>Every {{c1::action}}&nbsp;has consequences, whether good or bad.",
+                                        ""
+                                    ],
+                                    "guid": "Aj_eA&`m3c",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "action / activity<br><br>Полиция сообщила о необычной активности возле заброшенного склада<br>The police reported unusual {{c1::activity}}&nbsp;near the abandoned warehouse.",
+                                        ""
+                                    ],
+                                    "guid": "OkZg5xH~g|",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "what / how<br><br>Как насчет того, чтобы заказать пиццу на ужин сегодня вечером?<br>{{c1::How}} about ordering pizza for dinner tonight?",
+                                        ""
+                                    ],
+                                    "guid": "jx5}NxPMd%",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "what / how<br><br>Как насчет того, чтобы сделать небольшой перерыв?<br>{{c1::How}} about we take a short break?",
+                                        ""
+                                    ],
+                                    "guid": "ipI}_AWN`/",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "what / how<br><br>Как насчет этой зеленой рубашки? Она подходит к твоим глазам<br>{{c1::How}} about this green shirt? It matches your eyes",
+                                        ""
+                                    ],
+                                    "guid": "t]T2y:ume4",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "what / how<br><br>Мы можем поехать на пляж на машине. А как же ужасные пробки?<br>We can drive to the beach. {{c1::What}} about the terrible traffic?",
+                                        ""
+                                    ],
+                                    "guid": "zr~GLfnO-E",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "what / how<br><br>Давай собирать чемоданы и уезжать. А как же собака? Кто ее будет кормить?<br>Let's pack our bags and leave. {{c1::What}} about the dog? Who will feed him?",
+                                        ""
+                                    ],
+                                    "guid": "M|/3UBtSER",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "what / how<br><br>Я купил подарки для всех. А как же Сара? Ты забыл про нее.<br>I've bought presents for everyone. {{c1::What}} about Sarah? You forgot her.",
+                                        ""
+                                    ],
+                                    "guid": "fpS760B/sc",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "what / how<br><br>Я обычно провожу выходные за чтением. А ты?<br>I usually spend my weekends reading. {{c1::What/How}} about you?",
+                                        ""
+                                    ],
+                                    "guid": "LqPY`($+z>",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "what / how<br><br>Мой проект почти готов. А твой?<br>My project is almost finished. {{c1::What/How}} about yours?",
+                                        ""
+                                    ],
+                                    "guid": "Q+w]58dvtn",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "what / how<br><br>Я обожаю итальянскую кухню. А как насчет твоего брата? Ему она нравится?<br>I love Italian food. {{c1::What/How}} about your brother? Does he like it?",
+                                        ""
+                                    ],
+                                    "guid": "oLJ!5[5U}.",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "again / all over again<br><br>Можешь повторить свой номер телефона еще один раз, пожалуйста?<br>Can you repeat your phone number {{c1::again}}, please?",
+                                        ""
+                                    ],
+                                    "guid": "A_~fKdN)BE",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "again / all over again<br><br>Мне очень понравилась та песня, давай послушаем ее еще раз<br>I really liked that song, let's listen to it {{c1::again}}",
+                                        ""
+                                    ],
+                                    "guid": "x15,vSN{#S",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "again / all over again<br><br>Если не получилось в первый раз, просто попробуй еще один раз<br>If you fail the first time, just try {{c1::again}}",
+                                        ""
+                                    ],
+                                    "guid": "_-Ujuvf<r",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "again / all over again<br><br>Собака съела мою домашку, поэтому мне пришлось писать её с самого начала<br>The dog ate my homework, so I had to write it {{c1::all over again}}",
+                                        ""
+                                    ],
+                                    "guid": "dMJ$c5Di-T",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "again / all over again<br><br>Мое мороженое упало на пол, и мне пришлось убирать кухню с самого начала<br>My ice cream dropped on the floor, and I had to clean the kitchen {{c1::all over again}}",
+                                        ""
+                                    ],
+                                    "guid": "igt|*5-DNS",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "again / all over again<br><br>Режиссеру не понравился наш монтаж видео, и он заставил нас записывать всё с самого начала<br>The director hated our video edit and made us record it {{c1::all over again}}",
+                                        ""
+                                    ],
+                                    "guid": "b[r$]E^,qH",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+                                    "tags": []
+                                }
+                            ],
+                            "reviewLimit": 130,
+                            "reviewLimitToday": null
+                        }
+                    ],
+                    "crowdanki_uuid": "ec5aa73c-bc3d-11f1-8eda-4c1d96739640",
+                    "deck_config_uuid": "ec5acaaa-bc3d-11f1-9326-4c1d96739640",
+                    "desc": "",
+                    "desiredRetention": null,
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "[2] слова значения",
                     "newLimit": null,
                     "newLimitToday": null,
                     "notes": [],
@@ -16788,7 +16958,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Как построить простые предложения с глаголом <code>to be</code> и местоимениями<br><code>I, We, You, They, He, She, It</code><br>в настоящем времени<br><br>1. Утвердительные<br>2. Отрицательные<br>3. Вопросительные<br><br>В том числе использовать краткие формы где это возможно",
+                                        "Как построить простые предложения с глаголом to be и местоимениями\n<br>I, We, You, They, He, She, It\n<br>в настоящем времени\n<br> <br>1. Утвердительные\n<br>2. Отрицательные\n<br>3. Вопросительные\n<br> <br>В том числе использовать краткие формы где это возможно",
                                         "<b>I</b><br>1. I am .. / I'm ...<br>2. I am not .. / No, I'm not ..<br>3. Am I ..<br><br><b>He, She, It</b><br>1. He is ..<br>2. She is not .. / No, she's not .. / No, she isn't ..<br>3. Is it ... ?<br><br><b>We, You, They</b><br>1. We are ..<br>2. You are not .. / No, you're not .. / No, you aren't ..<br>3. Are they .. ?"
                                     ],
                                     "guid": "QiE3Ek/u*Q",
@@ -16800,8 +16970,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Какой глагол используется в утвердительных, вопросительных и отрицательных предложениях, в которых нет глагола<br><br>Например: <code>сегодня холодно</code>",
-                                        "Глагол&nbsp;<code>to be</code>"
+                                        "Какой глагол используется в утвердительных, вопросительных и отрицательных предложениях, в которых нет глагола\n<br> <br>Например: сегодня холодно",
+                                        "Глагол to be"
                                     ],
                                     "guid": "eo{,p^@R!B",
                                     "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -16812,8 +16982,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Какие формы глагола <code>to be</code>&nbsp;существуют (настоящее время)",
-                                        "<code>am, is, are</code>"
+                                        "Какие формы глагола to be существуют (настоящее время)",
+                                        "am, is, are"
                                     ],
                                     "guid": "j@!W.Ip-sI",
                                     "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -16824,7 +16994,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Переводится ли глагол <code>to be</code> на русский язык",
+                                        "Переводится ли глагол to be на русский язык",
                                         "Чаще всего нет"
                                     ],
                                     "guid": "zH)M9m$C4t",
@@ -16836,8 +17006,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Какую конструкцию можно использовать для построения предложений типа <code>\"Холодно\"</code>, <code>\"Тепло\"</code>",
-                                        "<code>It's + ... .</code>"
+                                        "Какую конструкцию можно использовать для построения предложений типа \"Холодно\", \"Тепло\"",
+                                        "It's + ... ."
                                     ],
                                     "guid": "O[YHCs9f+T",
                                     "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -16848,8 +17018,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Какие сокращения можно использовать для конструкций<br>1. <code>that is</code><br>2. <code>there is</code><br>3. <code>here is</code>",
-                                        "1. <code>that's</code><br>2. <code>there's</code><br>3. <code>here's</code>"
+                                        "Какие сокращения можно использовать для конструкций:<br>1. that is\n<br>2. there is\n<br>3. here is",
+                                        "1. that's\n<br>2. there's\n<br>3. here's"
                                     ],
                                     "guid": "G#A2A,#1Z.",
                                     "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -16879,11 +17049,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Меня зовут Анна<br>My name _ Anna",
-                                        "My name is Anna"
+                                        "Меня зовут Анна <br>My name {{c1::is}} Anna",
+                                        ""
                                     ],
-                                    "guid": "Dz69K@wZ]d",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "Mi/kfEIMZj",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -16891,11 +17061,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Мне 25 лет<br>I_ 25",
-                                        "I'm 25"
+                                        "Мне 25 лет<br>I{{c1::'m}} 25",
+                                        ""
                                     ],
-                                    "guid": "Qoj:&#EcA]",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "sa]sU@T/me",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -16903,11 +17073,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Я канадка. Я из Торонто<br>I_ Canadian. I_ from Toronto",
-                                        "I'm Canadian. I'm from Toronto"
+                                        "Я канадка. Я из Торонто<br>I{{c1::'m}} Canadian. I{{c1::'m}} from Toronto",
+                                        ""
                                     ],
-                                    "guid": "gsP5~C]A={",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "ci9m[m7479",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -16915,11 +17085,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Я дизайнер<br>I_ a designer",
-                                        "I'm a designer"
+                                        "Я дизайнер<br>I{{c1::'m}} a designer",
+                                        ""
                                     ],
-                                    "guid": "sT54m:/wf>",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "n/`wPPyZBH",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -16927,11 +17097,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Мой отец — инженер, а моя мать — учительница<br>My father _ an engineer and my mother _ a teacher",
-                                        "My father is an engineer and my mother is a teacher"
+                                        "Мой отец — инженер, а моя мать — учительница<br>My father {{c1::is}} an engineer and my mother {{c1::is}} a teacher",
+                                        ""
                                     ],
-                                    "guid": "FtSe8`(C3Q",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "db-WHht^yS",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -16939,11 +17109,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Мой любимый цвет — зеленый<br>My favourite colour _ green",
-                                        "My favourite colour is green"
+                                        "Мой любимый цвет — зеленый<br>My favourite colour {{c1::is}} green",
+                                        ""
                                     ],
-                                    "guid": "tPW^2Rwd*y",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "yvVF8yGBq6",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -16951,11 +17121,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Мои любимые виды спорта — теннис и велоспорт<br>My favourite sports _ tennis and cycling",
-                                        "My favourite sports are tennis and cycling"
+                                        "Мои любимые виды спорта — теннис и велоспорт<br>My favourite sports {{c1::are}} tennis and cycling",
+                                        ""
                                     ],
-                                    "guid": "Nf5|<aP;02",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "gyQ-Sa`bU_",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -16963,11 +17133,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Я довольно низкого роста<br>I_ quite short",
-                                        "I'm quite short"
+                                        "Я довольно низкого роста<br>I{{c1::'m}} quite short",
+                                        ""
                                     ],
-                                    "guid": "rK@QHPawd(",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "kit|my~^=(",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -16975,11 +17145,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Мне 25 лет. Моему брату 18<br>I_ 25 years old. My brother _ 18",
-                                        "I'm 25 years old. My brother is 18"
+                                        "Мне 25 лет. Моему брату 18<br>I {{c1::am}} 25 years old. My brother {{c1::is}} 18",
+                                        ""
                                     ],
-                                    "guid": "yU@blcfIG|",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "Gf3s,}pQF-",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -16987,11 +17157,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Кейт устала. Она спит<br>Kate _ tired. She_ asleep",
-                                        "Kate is tired. She's asleep"
+                                        "Кейт устала. Она спит<br>Kate {{c1::is}} tired. She{{c1::'s}} asleep",
+                                        ""
                                     ],
-                                    "guid": "z.A.VL=`z;",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "G`ILM9DNJR",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -16999,11 +17169,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Мой телефон совершенно новый<br>My phone _ brand new",
-                                        "My phone is brand new"
+                                        "Мой телефон совершенно новый<br>My phone {{c1::is}} brand new",
+                                        ""
                                     ],
-                                    "guid": "K0,_<$v:^|",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "O27p4`G{AB",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17011,11 +17181,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Мы с Томом коллеги<br>Tom and I _ colleagues",
-                                        "Tom and I are colleagues"
+                                        "Мы с Томом коллеги<br>Tom and I {{c1::are}} colleagues",
+                                        ""
                                     ],
-                                    "guid": "n/pa~;L|bO",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "r%zXvRf4w5",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17023,11 +17193,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Вы сегодня очень опоздали<br>You_ very late today",
-                                        "You're very late today"
+                                        "Вы сегодня очень опоздали<br>You{{c1::'re}} very late today",
+                                        ""
                                     ],
-                                    "guid": "brCu4TbMC~",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "s,<^KIolJ8",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17035,11 +17205,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Твой ноутбук в сумке<br>Your laptop _ in the bag",
-                                        "Your laptop is in the bag"
+                                        "Твой ноутбук в сумке<br>Your laptop {{c1::is}} in the bag",
+                                        ""
                                     ],
-                                    "guid": "ucC_m&$xxW",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "F|PFetV$]O",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17047,11 +17217,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Я не француз. Я из Канады<br>I_ not French. I_ from Canada",
-                                        "I'm not French. I'm from Canada"
+                                        "Я не француз. Я из Канады<br>I{{c1::'m}} not French. I{{c1::'m}} from Canada",
+                                        ""
                                     ],
-                                    "guid": "BXospqw-!H",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "D4;wx.ah2a",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17059,11 +17229,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Сара не врач. Она медсестра<br>Sarah _ a doctor. She_ a nurse",
-                                        "Sarah isn't a doctor. She's a nurse"
+                                        "Сара не врач. Она медсестра<br>Sarah {{c1::isn't}} a doctor. She{{c1::'s}} a nurse",
+                                        ""
                                     ],
-                                    "guid": "M3fC:W<:`8",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "y78D:cW42@",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17071,11 +17241,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Эти книги не дорогие. Они дешёвые<br>Those books _ expensive. They_ cheap",
-                                        "Those books aren't expensive. They're cheap"
+                                        "Эти книги не дорогие. Они дешёвые<br>Those books {{c1::aren't}} expensive. They{{c1::'re}} cheap",
+                                        ""
                                     ],
-                                    "guid": "eLV4mG~yWh",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "s,yOyrdx4r",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17083,11 +17253,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "(Сейчас) три часа<br>It_ three o’clock",
-                                        "It’s three o’clock"
+                                        "(Сейчас) три часа<br>It{{c1::'s}} three o'clock",
+                                        ""
                                     ],
-                                    "guid": "B18pr4O|}G",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "Js*77!S?Id",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17095,11 +17265,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "(Сейчас) половина девятого / 8:30<br>It_ 8.30",
-                                        "It’s 8.30"
+                                        "(Сейчас) половина девятого / 8:30<br>It{{c1::'s}} 8.30",
+                                        ""
                                     ],
-                                    "guid": "eX#ihZC~1L",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "gb[aA:]D7s",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17107,11 +17277,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "(Сейчас) полдень<br>It_ noon",
-                                        "It’s noon"
+                                        "(Сейчас) полдень<br>It{{c1::'s}} noon",
+                                        ""
                                     ],
-                                    "guid": "O]nWg5:271",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "Qwj#t_WcCj",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17119,11 +17289,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "(Сейчас) темно<br>It_ dark",
-                                        "It’s dark"
+                                        "(Сейчас) темно<br>It{{c1::'s}} dark",
+                                        ""
                                     ],
-                                    "guid": "A{Ih^}q:*v",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "Kgqy8f{Ue>",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17131,11 +17301,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Пора идти<br>It_ time to go",
-                                        "It’s time to go"
+                                        "Пора идти<br>It{{c1::'s}} time to go",
+                                        ""
                                     ],
-                                    "guid": "yBo?TztP=]",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "xs[7J_P1l5",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17143,11 +17313,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "(Сейчас) слишком рано<br>It_ too early",
-                                        "It’s too early"
+                                        "(Сейчас) слишком рано<br>It{{c1::'s}} too early",
+                                        ""
                                     ],
-                                    "guid": "nty$meZAwH",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "fU5Mg$T?*u",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17155,11 +17325,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Это отличная идея!<br>That_ a great idea!",
-                                        "That’s a great idea!"
+                                        "Это отличная идея!<br>That{{c1::'s}} a great idea!",
+                                        ""
                                     ],
-                                    "guid": "h{E0G%t(*%",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "hh5`2n]Bnv",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17167,11 +17337,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Это правда<br>That_ true",
-                                        "That’s true"
+                                        "Это правда<br>That{{c1::'s}} true",
+                                        ""
                                     ],
-                                    "guid": "KUR%J:e{VC",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "ik-vLpNf,8",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17179,11 +17349,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Смотри! Вон автобус<br>Look! There_ a bus",
-                                        "Look! There’s a bus"
+                                        "Смотри! Вон автобус<br>Look! There{{c1::'s}} a bus",
+                                        ""
                                     ],
-                                    "guid": "urC4Z?]B*V",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "rD%%GOO[f<",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17191,11 +17361,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Вон Анна у магазина<br>There_ Anna near the shop",
-                                        "There’s Anna near the shop"
+                                        "Вон Анна у магазина<br>There{{c1::'s}} Anna near the shop",
+                                        ""
                                     ],
-                                    "guid": "c1k|p|F%l#",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "H~yQPg6Ytq",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17203,11 +17373,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Вот ваш кофе<br>Here_ your coffee",
-                                        "Here’s your coffee"
+                                        "Вот ваш кофе<br>Here{{c1::'s}} your coffee",
+                                        ""
                                     ],
-                                    "guid": "qM`fiB,C<8",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "t>&Qel<?yg",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17215,11 +17385,11 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Вот мой номер телефона<br>Here_ my phone number",
-                                        "Here’s my phone number"
+                                        "Вот мой номер телефона<br>Here{{c1::'s}} my phone number",
+                                        ""
                                     ],
-                                    "guid": "F`PVsP)aI^",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "guid": "kk3W]ETq!t",
+                                    "note_model_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
                                     "tags": [
                                         "Английская-грамматика::am-is-are::практика"
                                     ]
@@ -17237,7 +17407,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
-                    "name": "[2] грамматика",
+                    "name": "[3] грамматика",
                     "newLimit": null,
                     "newLimitToday": null,
                     "notes": [],
@@ -19892,7 +20062,7 @@
                     "id": 1454015141868834232,
                     "name": "Карточка 1",
                     "ord": 0,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{Front}}\n\n<hr>"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">{{Tags}}\n</div>\n<hr>\n\n{{Front}}\n\n<hr>"
                 }
             ],
             "type": 0
@@ -21611,7 +21781,7 @@
                     "any",
                     [
                         3,
-                        4,
+                        5,
                         6
                     ]
                 ],
@@ -21620,7 +21790,7 @@
                     "any",
                     [
                         8,
-                        9,
+                        10,
                         11
                     ]
                 ],
@@ -21629,7 +21799,7 @@
                     "any",
                     [
                         13,
-                        14,
+                        15,
                         16
                     ]
                 ],
@@ -21638,7 +21808,7 @@
                     "any",
                     [
                         18,
-                        19,
+                        20,
                         21
                     ]
                 ],
@@ -21647,7 +21817,7 @@
                     "any",
                     [
                         23,
-                        24,
+                        25,
                         26
                     ]
                 ],
@@ -21656,7 +21826,7 @@
                     "any",
                     [
                         28,
-                        29,
+                        30,
                         31
                     ]
                 ],
@@ -21665,7 +21835,7 @@
                     "any",
                     [
                         33,
-                        34,
+                        35,
                         36
                     ]
                 ],
@@ -21674,7 +21844,7 @@
                     "any",
                     [
                         38,
-                        39,
+                        40,
                         41
                     ]
                 ],
@@ -21683,7 +21853,7 @@
                     "any",
                     [
                         43,
-                        44,
+                        45,
                         46
                     ]
                 ],
@@ -21692,7 +21862,7 @@
                     "any",
                     [
                         48,
-                        49,
+                        50,
                         51
                     ]
                 ],
@@ -21701,7 +21871,7 @@
                     "any",
                     [
                         53,
-                        54,
+                        55,
                         56
                     ]
                 ],
@@ -21710,7 +21880,7 @@
                     "any",
                     [
                         58,
-                        59,
+                        60,
                         61
                     ]
                 ],
@@ -21719,7 +21889,7 @@
                     "any",
                     [
                         63,
-                        64,
+                        65,
                         66
                     ]
                 ],
@@ -21728,7 +21898,7 @@
                     "any",
                     [
                         68,
-                        69,
+                        70,
                         71
                     ]
                 ],
@@ -21737,7 +21907,7 @@
                     "any",
                     [
                         73,
-                        74,
+                        75,
                         76
                     ]
                 ],
@@ -21746,7 +21916,7 @@
                     "any",
                     [
                         78,
-                        79,
+                        80,
                         81
                     ]
                 ],
@@ -21755,7 +21925,7 @@
                     "any",
                     [
                         83,
-                        84,
+                        85,
                         86
                     ]
                 ],
@@ -21764,7 +21934,7 @@
                     "any",
                     [
                         88,
-                        89,
+                        90,
                         91
                     ]
                 ],
@@ -21773,7 +21943,7 @@
                     "any",
                     [
                         93,
-                        94,
+                        95,
                         96
                     ]
                 ],
@@ -21782,7 +21952,7 @@
                     "any",
                     [
                         98,
-                        99,
+                        100,
                         101
                     ]
                 ]
@@ -21790,7 +21960,7 @@
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{1-Vector-ru}}\n\n<hr>\n{{1-Word-en}}<br>\n{{1-Word-ru}}\n\n<hr>\n{{1-Example-en}}<br>\n{{1-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{1-Vector-ru}}\n\n<hr>\n{{1-Word-en}}<br>\n{{1-Word-ru}}\n\n<hr>\n{{1-Example-en}}<br>\n{{1-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Vector-ru}}",
@@ -21799,10 +21969,10 @@
                     "id": null,
                     "name": "EN->RU->1",
                     "ord": 0,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{1-Word-en}}\n<br>\n{{1-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{1-Word-en}}\n<br>\n{{1-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{2-Vector-ru}}\n\n<hr>\n{{2-Word-en}}<br>\n{{2-Word-ru}}\n\n<hr>\n{{2-Example-en}}<br>\n{{2-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{2-Vector-ru}}\n\n<hr>\n{{2-Word-en}}<br>\n{{2-Word-ru}}\n\n<hr>\n{{2-Example-en}}<br>\n{{2-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21811,10 +21981,10 @@
                     "id": 2178718867803505837,
                     "name": "EN->RU->2",
                     "ord": 1,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{2-Word-en}}\n<br>\n{{2-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{2-Word-en}}\n<br>\n{{2-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{3-Vector-ru}}\n\n<hr>\n{{3-Word-en}}<br>\n{{3-Word-ru}}\n\n<hr>\n{{3-Example-en}}<br>\n{{3-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{3-Vector-ru}}\n\n<hr>\n{{3-Word-en}}<br>\n{{3-Word-ru}}\n\n<hr>\n{{3-Example-en}}<br>\n{{3-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21823,10 +21993,10 @@
                     "id": -8987534741384495357,
                     "name": "EN->RU->3",
                     "ord": 2,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{3-Word-en}}\n<br>\n{{3-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{3-Word-en}}\n<br>\n{{3-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{4-Vector-ru}}\n\n<hr>\n{{4-Word-en}}<br>\n{{4-Word-ru}}\n\n<hr>\n{{4-Example-en}}<br>\n{{4-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{4-Vector-ru}}\n\n<hr>\n{{4-Word-en}}<br>\n{{4-Word-ru}}\n\n<hr>\n{{4-Example-en}}<br>\n{{4-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21835,10 +22005,10 @@
                     "id": -4498603306968217333,
                     "name": "EN->RU->4",
                     "ord": 3,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{4-Word-en}}\n<br>\n{{4-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{4-Word-en}}\n<br>\n{{4-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{5-Vector-ru}}\n\n<hr>\n{{5-Word-en}}<br>\n{{5-Word-ru}}\n\n<hr>\n{{5-Example-en}}<br>\n{{5-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{5-Vector-ru}}\n\n<hr>\n{{5-Word-en}}<br>\n{{5-Word-ru}}\n\n<hr>\n{{5-Example-en}}<br>\n{{5-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21847,10 +22017,10 @@
                     "id": -3735932700356541120,
                     "name": "EN->RU->5",
                     "ord": 4,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{5-Word-en}}\n<br>\n{{5-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{5-Word-en}}\n<br>\n{{5-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{6-Vector-ru}}\n\n<hr>\n{{6-Word-en}}<br>\n{{6-Word-ru}}\n\n<hr>\n{{6-Example-en}}<br>\n{{6-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{6-Vector-ru}}\n\n<hr>\n{{6-Word-en}}<br>\n{{6-Word-ru}}\n\n<hr>\n{{6-Example-en}}<br>\n{{6-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21859,10 +22029,10 @@
                     "id": 5572452230391451487,
                     "name": "EN->RU->6",
                     "ord": 5,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{6-Word-en}}\n<br>\n{{6-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{6-Word-en}}\n<br>\n{{6-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{7-Vector-ru}}\n\n<hr>\n{{7-Word-en}}<br>\n{{7-Word-ru}}\n\n<hr>\n{{7-Example-en}}<br>\n{{7-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{7-Vector-ru}}\n\n<hr>\n{{7-Word-en}}<br>\n{{7-Word-ru}}\n\n<hr>\n{{7-Example-en}}<br>\n{{7-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21871,10 +22041,10 @@
                     "id": 2522187647964508804,
                     "name": "EN->RU->7",
                     "ord": 6,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{7-Word-en}}\n<br>\n{{7-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{7-Word-en}}\n<br>\n{{7-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{8-Vector-ru}}\n\n<hr>\n{{8-Word-en}}<br>\n{{8-Word-ru}}\n\n<hr>\n{{8-Example-en}}<br>\n{{8-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{8-Vector-ru}}\n\n<hr>\n{{8-Word-en}}<br>\n{{8-Word-ru}}\n\n<hr>\n{{8-Example-en}}<br>\n{{8-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21883,10 +22053,10 @@
                     "id": -3184141129511436938,
                     "name": "EN->RU->8",
                     "ord": 7,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{8-Word-en}}\n<br>\n{{8-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{8-Word-en}}\n<br>\n{{8-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{9-Vector-ru}}\n\n<hr>\n{{9-Word-en}}<br>\n{{9-Word-ru}}\n\n<hr>\n{{9-Example-en}}<br>\n{{9-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{9-Vector-ru}}\n\n<hr>\n{{9-Word-en}}<br>\n{{9-Word-ru}}\n\n<hr>\n{{9-Example-en}}<br>\n{{9-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21895,10 +22065,10 @@
                     "id": 7245408877581522989,
                     "name": "EN->RU->9",
                     "ord": 8,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{9-Word-en}}\n<br>\n{{9-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{9-Word-en}}\n<br>\n{{9-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{10-Vector-ru}}\n\n<hr>\n{{10-Word-en}}<br>\n{{10-Word-ru}}\n\n<hr>\n{{10-Example-en}}<br>\n{{10-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{10-Vector-ru}}\n\n<hr>\n{{10-Word-en}}<br>\n{{10-Word-ru}}\n\n<hr>\n{{10-Example-en}}<br>\n{{10-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21907,10 +22077,10 @@
                     "id": -1036017902695148697,
                     "name": "EN->RU->10",
                     "ord": 9,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{10-Word-en}}\n<br>\n{{10-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{10-Word-en}}\n<br>\n{{10-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{11-Vector-ru}}\n\n<hr>\n{{11-Word-en}}<br>\n{{11-Word-ru}}\n\n<hr>\n{{11-Example-en}}<br>\n{{11-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{11-Vector-ru}}\n\n<hr>\n{{11-Word-en}}<br>\n{{11-Word-ru}}\n\n<hr>\n{{11-Example-en}}<br>\n{{11-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21919,10 +22089,10 @@
                     "id": 320112113351516776,
                     "name": "EN->RU->11",
                     "ord": 10,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{11-Word-en}}\n<br>\n{{11-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{11-Word-en}}\n<br>\n{{11-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{12-Vector-ru}}\n\n<hr>\n{{12-Word-en}}<br>\n{{12-Word-ru}}\n\n<hr>\n{{12-Example-en}}<br>\n{{12-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{12-Vector-ru}}\n\n<hr>\n{{12-Word-en}}<br>\n{{12-Word-ru}}\n\n<hr>\n{{12-Example-en}}<br>\n{{12-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21931,10 +22101,10 @@
                     "id": -2305053082749099961,
                     "name": "EN->RU->12",
                     "ord": 11,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{12-Word-en}}\n<br>\n{{12-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{12-Word-en}}\n<br>\n{{12-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{13-Vector-ru}}\n\n<hr>\n{{13-Word-en}}<br>\n{{13-Word-ru}}\n\n<hr>\n{{13-Example-en}}<br>\n{{13-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{13-Vector-ru}}\n\n<hr>\n{{13-Word-en}}<br>\n{{13-Word-ru}}\n\n<hr>\n{{13-Example-en}}<br>\n{{13-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21943,10 +22113,10 @@
                     "id": -682904946382897164,
                     "name": "EN->RU->13",
                     "ord": 12,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{13-Word-en}}\n<br>\n{{13-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{13-Word-en}}\n<br>\n{{13-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{14-Vector-ru}}\n\n<hr>\n{{14-Word-en}}<br>\n{{14-Word-ru}}\n\n<hr>\n{{14-Example-en}}<br>\n{{14-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{14-Vector-ru}}\n\n<hr>\n{{14-Word-en}}<br>\n{{14-Word-ru}}\n\n<hr>\n{{14-Example-en}}<br>\n{{14-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21955,10 +22125,10 @@
                     "id": -8734937796005362104,
                     "name": "EN->RU->14",
                     "ord": 13,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{14-Word-en}}\n<br>\n{{14-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{14-Word-en}}\n<br>\n{{14-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{15-Vector-ru}}\n\n<hr>\n{{15-Word-en}}<br>\n{{15-Word-ru}}\n\n<hr>\n{{15-Example-en}}<br>\n{{15-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{15-Vector-ru}}\n\n<hr>\n{{15-Word-en}}<br>\n{{15-Word-ru}}\n\n<hr>\n{{15-Example-en}}<br>\n{{15-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21967,10 +22137,10 @@
                     "id": 255947237847953979,
                     "name": "EN->RU->15",
                     "ord": 14,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{15-Word-en}}\n<br>\n{{15-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{15-Word-en}}\n<br>\n{{15-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{16-Vector-ru}}\n\n<hr>\n{{16-Word-en}}<br>\n{{16-Word-ru}}\n\n<hr>\n{{16-Example-en}}<br>\n{{16-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{16-Vector-ru}}\n\n<hr>\n{{16-Word-en}}<br>\n{{16-Word-ru}}\n\n<hr>\n{{16-Example-en}}<br>\n{{16-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21979,10 +22149,10 @@
                     "id": 8252856364549516529,
                     "name": "EN->RU->16",
                     "ord": 15,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{16-Word-en}}\n<br>\n{{16-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{16-Word-en}}\n<br>\n{{16-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{17-Vector-ru}}\n\n<hr>\n{{17-Word-en}}<br>\n{{17-Word-ru}}\n\n<hr>\n{{17-Example-en}}<br>\n{{17-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{17-Vector-ru}}\n\n<hr>\n{{17-Word-en}}<br>\n{{17-Word-ru}}\n\n<hr>\n{{17-Example-en}}<br>\n{{17-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -21991,10 +22161,10 @@
                     "id": -5280204670165636802,
                     "name": "EN->RU->17",
                     "ord": 16,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{17-Word-en}}\n<br>\n{{17-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{17-Word-en}}\n<br>\n{{17-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{18-Vector-ru}}\n\n<hr>\n{{18-Word-en}}<br>\n{{18-Word-ru}}\n\n<hr>\n{{18-Example-en}}<br>\n{{18-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{18-Vector-ru}}\n\n<hr>\n{{18-Word-en}}<br>\n{{18-Word-ru}}\n\n<hr>\n{{18-Example-en}}<br>\n{{18-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -22003,10 +22173,10 @@
                     "id": 6244764873264551045,
                     "name": "EN->RU->18",
                     "ord": 17,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{18-Word-en}}\n<br>\n{{18-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{18-Word-en}}\n<br>\n{{18-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{19-Vector-ru}}\n\n<hr>\n{{19-Word-en}}<br>\n{{19-Word-ru}}\n\n<hr>\n{{19-Example-en}}<br>\n{{19-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{19-Vector-ru}}\n\n<hr>\n{{19-Word-en}}<br>\n{{19-Word-ru}}\n\n<hr>\n{{19-Example-en}}<br>\n{{19-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -22015,10 +22185,10 @@
                     "id": -1356284981950552183,
                     "name": "EN->RU->19",
                     "ord": 18,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{19-Word-en}}\n<br>\n{{19-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{19-Word-en}}\n<br>\n{{19-Example-en}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{20-Vector-ru}}\n\n<hr>\n{{20-Word-en}}<br>\n{{20-Word-ru}}\n\n<hr>\n{{20-Example-en}}<br>\n{{20-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{20-Vector-ru}}\n\n<hr>\n{{20-Word-en}}<br>\n{{20-Word-ru}}\n\n<hr>\n{{20-Example-en}}<br>\n{{20-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "{{Hidden-main-word}}",
@@ -22027,7 +22197,7 @@
                     "id": 3064212863840457665,
                     "name": "EN->RU->20",
                     "ord": 19,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{20-Word-en}}\n<br>\n{{20-Example-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{20-Word-en}}\n<br>\n{{20-Example-en}}"
                 },
                 {
                     "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n",
@@ -22039,10 +22209,10 @@
                     "id": 5554446127325552635,
                     "name": "Vector",
                     "ord": 20,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\nОпределить вектор слова: <code>{{Hidden-main-word}}</code>\n"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\nОпределить вектор слова: <code>{{Hidden-main-word}}</code>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{1-Vector-ru}}\n\n<hr>\n{{1-Word-en}}<br>\n{{1-Word-ru}}\n\n<hr>\n{{1-Example-en}}<br>\n{{1-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{1-Vector-ru}}\n\n<hr>\n{{1-Word-en}}<br>\n{{1-Word-ru}}\n\n<hr>\n{{1-Example-en}}<br>\n{{1-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22051,10 +22221,10 @@
                     "id": -3154296836843306329,
                     "name": "RU->EN->1",
                     "ord": 21,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{1-Word-ru}}\n<br>\n{{1-Example-ru}}\n{{type:1-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{1-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{1-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:1-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{1-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{2-Vector-ru}}\n\n<hr>\n{{2-Word-en}}<br>\n{{2-Word-ru}}\n\n<hr>\n{{2-Example-en}}<br>\n{{2-Example-ru}}\n",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{2-Vector-ru}}\n\n<hr>\n{{2-Word-en}}<br>\n{{2-Word-ru}}\n\n<hr>\n{{2-Example-en}}<br>\n{{2-Example-ru}}\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22063,10 +22233,10 @@
                     "id": -1772970810959982255,
                     "name": "RU->EN->2",
                     "ord": 22,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{2-Word-ru}}\n<br>\n{{2-Example-ru}}\n{{type:2-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{2-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{2-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:2-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{2-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{3-Vector-ru}}\n\n<hr>\n{{3-Word-en}}<br>\n{{3-Word-ru}}\n\n<hr>\n{{3-Example-en}}<br>\n{{3-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{3-Vector-ru}}\n\n<hr>\n{{3-Word-en}}<br>\n{{3-Word-ru}}\n\n<hr>\n{{3-Example-en}}<br>\n{{3-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22075,10 +22245,10 @@
                     "id": -6351324991502867238,
                     "name": "RU->EN->3",
                     "ord": 23,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{3-Word-ru}}\n<br>\n{{3-Example-ru}}\n{{type:3-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{3-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{3-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:3-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{3-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{4-Vector-ru}}\n\n<hr>\n{{4-Word-en}}<br>\n{{4-Word-ru}}\n\n<hr>\n{{4-Example-en}}<br>\n{{4-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{4-Vector-ru}}\n\n<hr>\n{{4-Word-en}}<br>\n{{4-Word-ru}}\n\n<hr>\n{{4-Example-en}}<br>\n{{4-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22087,10 +22257,10 @@
                     "id": -5189999674160244206,
                     "name": "RU->EN->4",
                     "ord": 24,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{4-Word-ru}}\n<br>\n{{4-Example-ru}}\n{{type:4-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{4-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{4-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:4-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{4-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{5-Vector-ru}}\n\n<hr>\n{{5-Word-en}}<br>\n{{5-Word-ru}}\n\n<hr>\n{{5-Example-en}}<br>\n{{5-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{5-Vector-ru}}\n\n<hr>\n{{5-Word-en}}<br>\n{{5-Word-ru}}\n\n<hr>\n{{5-Example-en}}<br>\n{{5-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22099,10 +22269,10 @@
                     "id": -984080750270790305,
                     "name": "RU->EN->5",
                     "ord": 25,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{5-Word-ru}}\n<br>\n{{5-Example-ru}}\n{{type:5-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{5-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{5-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:5-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{5-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{6-Vector-ru}}\n\n<hr>\n{{6-Word-en}}<br>\n{{6-Word-ru}}\n\n<hr>\n{{6-Example-en}}<br>\n{{6-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{6-Vector-ru}}\n\n<hr>\n{{6-Word-en}}<br>\n{{6-Word-ru}}\n\n<hr>\n{{6-Example-en}}<br>\n{{6-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22111,10 +22281,10 @@
                     "id": 2701959741842168075,
                     "name": "RU->EN->6",
                     "ord": 26,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{6-Word-ru}}\n<br>\n{{6-Example-ru}}\n{{type:6-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{6-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{6-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:6-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{6-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{7-Vector-ru}}\n\n<hr>\n{{7-Word-en}}<br>\n{{7-Word-ru}}\n\n<hr>\n{{7-Example-en}}<br>\n{{7-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{7-Vector-ru}}\n\n<hr>\n{{7-Word-en}}<br>\n{{7-Word-ru}}\n\n<hr>\n{{7-Example-en}}<br>\n{{7-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22123,10 +22293,10 @@
                     "id": -5733178362012733132,
                     "name": "RU->EN->7",
                     "ord": 27,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{7-Word-ru}}\n<br>\n{{7-Example-ru}}\n{{type:7-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{7-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{7-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:7-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{7-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{8-Vector-ru}}\n\n<hr>\n{{8-Word-en}}<br>\n{{8-Word-ru}}\n\n<hr>\n{{8-Example-en}}<br>\n{{8-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{8-Vector-ru}}\n\n<hr>\n{{8-Word-en}}<br>\n{{8-Word-ru}}\n\n<hr>\n{{8-Example-en}}<br>\n{{8-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22135,10 +22305,10 @@
                     "id": -6880861398505067817,
                     "name": "RU->EN->8",
                     "ord": 28,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{8-Word-ru}}\n<br>\n{{8-Example-ru}}\n{{type:8-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{8-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{8-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:8-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{8-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{9-Vector-ru}}\n\n<hr>\n{{9-Word-en}}<br>\n{{9-Word-ru}}\n\n<hr>\n{{9-Example-en}}<br>\n{{9-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{9-Vector-ru}}\n\n<hr>\n{{9-Word-en}}<br>\n{{9-Word-ru}}\n\n<hr>\n{{9-Example-en}}<br>\n{{9-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22147,10 +22317,10 @@
                     "id": 7990493407065822972,
                     "name": "RU->EN->9",
                     "ord": 29,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{9-Word-ru}}\n<br>\n{{9-Example-ru}}\n{{type:9-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{9-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{9-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:9-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{9-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{10-Vector-ru}}\n\n<hr>\n{{10-Word-en}}<br>\n{{10-Word-ru}}\n\n<hr>\n{{10-Example-en}}<br>\n{{10-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{10-Vector-ru}}\n\n<hr>\n{{10-Word-en}}<br>\n{{10-Word-ru}}\n\n<hr>\n{{10-Example-en}}<br>\n{{10-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22159,10 +22329,10 @@
                     "id": 3076431189589120355,
                     "name": "RU->EN->10",
                     "ord": 30,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{10-Word-ru}}\n<br>\n{{10-Example-ru}}\n{{type:10-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{10-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{10-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:10-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{10-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{11-Vector-ru}}\n\n<hr>\n{{11-Word-en}}<br>\n{{11-Word-ru}}\n\n<hr>\n{{11-Example-en}}<br>\n{{11-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{11-Vector-ru}}\n\n<hr>\n{{11-Word-en}}<br>\n{{11-Word-ru}}\n\n<hr>\n{{11-Example-en}}<br>\n{{11-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22171,10 +22341,10 @@
                     "id": -9199061945642105492,
                     "name": "RU->EN->11",
                     "ord": 31,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{11-Word-ru}}\n<br>\n{{11-Example-ru}}\n{{type:11-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{11-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{11-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:11-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{11-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{12-Vector-ru}}\n\n<hr>\n{{12-Word-en}}<br>\n{{12-Word-ru}}\n\n<hr>\n{{12-Example-en}}<br>\n{{12-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{12-Vector-ru}}\n\n<hr>\n{{12-Word-en}}<br>\n{{12-Word-ru}}\n\n<hr>\n{{12-Example-en}}<br>\n{{12-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22183,10 +22353,10 @@
                     "id": 5222513181010764163,
                     "name": "RU->EN->12",
                     "ord": 32,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{12-Word-ru}}\n<br>\n{{12-Example-ru}}\n{{type:12-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{12-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{12-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:12-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{12-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{13-Vector-ru}}\n\n<hr>\n{{13-Word-en}}<br>\n{{13-Word-ru}}\n\n<hr>\n{{13-Example-en}}<br>\n{{13-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{13-Vector-ru}}\n\n<hr>\n{{13-Word-en}}<br>\n{{13-Word-ru}}\n\n<hr>\n{{13-Example-en}}<br>\n{{13-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22195,10 +22365,10 @@
                     "id": 3396221328915375848,
                     "name": "RU->EN->13",
                     "ord": 33,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{13-Word-ru}}\n<br>\n{{13-Example-ru}}\n{{type:13-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{13-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{13-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:13-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{13-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{14-Vector-ru}}\n\n<hr>\n{{14-Word-en}}<br>\n{{14-Word-ru}}\n\n<hr>\n{{14-Example-en}}<br>\n{{14-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{14-Vector-ru}}\n\n<hr>\n{{14-Word-en}}<br>\n{{14-Word-ru}}\n\n<hr>\n{{14-Example-en}}<br>\n{{14-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22207,10 +22377,10 @@
                     "id": -6003756211844090032,
                     "name": "RU->EN->14",
                     "ord": 34,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{14-Word-ru}}\n<br>\n{{14-Example-ru}}\n{{type:14-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{14-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{14-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:14-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{14-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{15-Vector-ru}}\n\n<hr>\n{{15-Word-en}}<br>\n{{15-Word-ru}}\n\n<hr>\n{{15-Example-en}}<br>\n{{15-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{15-Vector-ru}}\n\n<hr>\n{{15-Word-en}}<br>\n{{15-Word-ru}}\n\n<hr>\n{{15-Example-en}}<br>\n{{15-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22219,10 +22389,10 @@
                     "id": 1754130122002282217,
                     "name": "RU->EN->15",
                     "ord": 35,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{15-Word-ru}}\n<br>\n{{15-Example-ru}}\n{{type:15-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{15-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{15-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:15-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{15-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{16-Vector-ru}}\n\n<hr>\n{{16-Word-en}}<br>\n{{16-Word-ru}}\n\n<hr>\n{{16-Example-en}}<br>\n{{16-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{16-Vector-ru}}\n\n<hr>\n{{16-Word-en}}<br>\n{{16-Word-ru}}\n\n<hr>\n{{16-Example-en}}<br>\n{{16-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22231,10 +22401,10 @@
                     "id": -234451694479003080,
                     "name": "RU->EN->16",
                     "ord": 36,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{16-Word-ru}}\n<br>\n{{16-Example-ru}}\n{{type:16-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{16-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{16-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:16-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{16-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{17-Vector-ru}}\n\n<hr>\n{{17-Word-en}}<br>\n{{17-Word-ru}}\n\n<hr>\n{{17-Example-en}}<br>\n{{17-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{17-Vector-ru}}\n\n<hr>\n{{17-Word-en}}<br>\n{{17-Word-ru}}\n\n<hr>\n{{17-Example-en}}<br>\n{{17-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22243,10 +22413,10 @@
                     "id": -1982347013609859179,
                     "name": "RU->EN->17",
                     "ord": 37,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{17-Word-ru}}\n<br>\n{{17-Example-ru}}\n{{type:17-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{17-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{17-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:17-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{17-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{18-Vector-ru}}\n\n<hr>\n{{18-Word-en}}<br>\n{{18-Word-ru}}\n\n<hr>\n{{18-Example-en}}<br>\n{{18-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{18-Vector-ru}}\n\n<hr>\n{{18-Word-en}}<br>\n{{18-Word-ru}}\n\n<hr>\n{{18-Example-en}}<br>\n{{18-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22255,10 +22425,10 @@
                     "id": -6991752356034864779,
                     "name": "RU->EN->18",
                     "ord": 38,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{18-Word-ru}}\n<br>\n{{18-Example-ru}}\n{{type:18-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{18-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{18-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:18-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{18-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{19-Vector-ru}}\n\n<hr>\n{{19-Word-en}}<br>\n{{19-Word-ru}}\n\n<hr>\n{{19-Example-en}}<br>\n{{19-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{19-Vector-ru}}\n\n<hr>\n{{19-Word-en}}<br>\n{{19-Word-ru}}\n\n<hr>\n{{19-Example-en}}<br>\n{{19-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22267,10 +22437,10 @@
                     "id": 4431377973963144528,
                     "name": "RU->EN->19",
                     "ord": 39,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{19-Word-ru}}\n<br>\n{{19-Example-ru}}\n{{type:19-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{19-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{19-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:19-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{19-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr>\n{{Vector-ru}}\n\n<hr>\n{{20-Vector-ru}}\n\n<hr>\n{{20-Word-en}}<br>\n{{20-Word-ru}}\n\n<hr>\n{{20-Example-en}}<br>\n{{20-Example-ru}}",
+                    "afmt": "{{FrontSide}}\n\n<hr>\n{{20-Vector-ru}}\n\n<hr>\n{{20-Word-en}}<br>\n{{20-Word-ru}}\n\n<hr>\n{{20-Example-en}}<br>\n{{20-Example-ru}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22279,10 +22449,77 @@
                     "id": -296282820213912566,
                     "name": "RU->EN->20",
                     "ord": 40,
-                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\nt.me/konsilerina::{{Tags}}\n</div>\n<hr>\n\n{{20-Word-ru}}\n<br>\n{{20-Example-ru}}\n{{type:20-Word-en}}"
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">\n{{Tags}}\n</div>\n<hr>\n\n{{20-Example-ru}}\n\n<br><br>\n\n<div class=\"example-box\">\n    <span class=\"cloze-target\">{{20-Example-en}}</span>\n</div>\n\n<br>\n\n<div class=\"input-box\">\n    {{type:20-Word-en}}\n</div>\n\n<div id=\"hidden-word\" style=\"display: none;\">{{20-Word-en}}</div>\n\n<script>\n(function() {\n    const wordElement = document.getElementById('hidden-word');\n    if (!wordElement) return;\n        const word = wordElement.innerText.trim();\n    if (!word) return;\n    const targets = document.querySelectorAll('.cloze-target');\n    const escapedWord = word.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&');\n    const regex = new RegExp('\\\\b' + escapedWord + '\\\\b', 'gi');\n    targets.forEach(target => {\n        target.innerHTML = target.innerHTML.replace(regex, '___');\n    });\n})();\n</script>\n"
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "e8ab381b-be0c-11f1-bbf0-4c1d96739640",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    line-height: 1.5;\n    text-align: left;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n.nightMode .cloze {\n    color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": -4870040446311743299,
+                    "name": "Текст",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": true,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 0
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1243437878457728333,
+                    "name": "Дополнение оборота",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": 1
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "1. Konsilerin задание с пропуском",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">{{Tags}}\n</div>\n<hr>\n\n{{cloze:Текст}}<br>\n{{Дополнение оборота}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -6669071648646740529,
+                    "name": "Задание с пропусками",
+                    "ord": 0,
+                    "qfmt": "<div style=\"font-size: 0.5em; color: #888888; margin-top: 25px; text-align: left; opacity: 0.8;\">{{Tags}}\n</div>\n<hr>\n\n{{cloze:Текст}}\n"
+                }
+            ],
+            "type": 1
         }
     ],
     "notes": [],
