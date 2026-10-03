@@ -26,9 +26,9 @@ jobs:
 
           while IFS= read -r file; do
             [[ -z "$file" ]] && continue
-            if [[ "$file" == Anki-экспорт/* ]]; then
+            if [[ "$file" == anki-export/* ]]; then
               HAS_ANKI=true
-            elif [[ "$file" == Дополнительные-материалы/* ]]; then
+            elif [[ "$file" == extra/* ]]; then
               HAS_MATERIALS=true
             else
               HAS_OTHERS=true
@@ -43,7 +43,7 @@ jobs:
             elif [ "$HAS_MATERIALS" = true ] && [ "$HAS_ANKI" = false ]; then
               echo "title=Дополнительные материалы обновлены" >> $GITHUB_OUTPUT
             else
-              echo "title=Annki-карточки и дополнительные материалы обновлены" >> $GITHUB_OUTPUT
+              echo "title=Anki-карточки и дополнительные материалы обновлены" >> $GITHUB_OUTPUT
             fi
             
             RAW_MSG="${{ github.event.head_commit.message }}"
