@@ -10197,7 +10197,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу: до тех пор пока не введена строка \"stop\" читать строки из cin потока и выводить их в cout поток. Если строка пустая, то вывести \"empty\"",
-                                "<a href=\"https://github.com/konsilerinos/books-knowledge/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/C%2B%2B/3-main.cpp\">Дополнительные-материалы/С++/3-main.cpp</a>"
+                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks-0-100.html#task-3\">see extra</a>"
                             ],
                             "guid": "u8<k3Cwpaf",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -10209,7 +10209,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу: до тех пор пока не введена строка \"stop\" читать строки из cin потока и выводить их размер в cout поток",
-                                "<a href=\"https://github.com/konsilerinos/books-knowledge/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/C%2B%2B/4-main.cpp\">Дополнительные-материалы/С++/4-main.cpp</a>"
+                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks-0-100.html#task-4\">see extra</a>"
                             ],
                             "guid": "cwn)u:R$5r",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -10221,7 +10221,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу: до тех пор пока не введена строка \"stop\" вводить пару строк и сравнивать их",
-                                "<a href=\"https://github.com/konsilerinos/books-knowledge/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/C%2B%2B/1-main.cpp\">Дополнительные-материалы/С++/1-main.cpp</a>"
+                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks-0-100.html#task-1\">see extra</a>"
                             ],
                             "guid": "Ftgmfh#uiN",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -10233,7 +10233,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу. На входе int n, char c, на выходе - string из n символов c",
-                                "<a href=\"https://github.com/konsilerinos/books-knowledge/blob/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/C%2B%2B/2-main.cpp\">Дополнительные-материалы/С++/2-main.cpp</a>"
+                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks-0-100.html#task-2\">see extra</a>"
                             ],
                             "guid": "Fv.jXy*YV/",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -11825,7 +11825,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "agree",
+                                        "agree\n\nTODO пример в present simple (agreed)",
                                         "x1: соглашаться<br>x2: договариваться<br>x3: совпадать",
                                         "{1, 0, 0}<br>x1: слово указывает на совпадение мнений.",
                                         "agree",
@@ -12155,7 +12155,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "add",
+                                        "add\n\nTodo: adds не походит под скрипт",
                                         "x1: присоединение одного объекта/элемента к другому<br>x2: количественное или количественное увеличение<br>x3: дополнение к сказанному (речевое добавление)<br>x4: арифметическое сложение чисел/величин",
                                         "{1, 0, 0, 0}<br>x1: субъект помещает один ингредиент (соль) в другой (суп), присоединяя его.",
                                         "add",
@@ -13934,7 +13934,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "agree",
+                                        "agree\n\nTODO пример в present simple (agreed)",
                                         "x1: соглашаться<br>x2: договариваться<br>x3: совпадать",
                                         "{1, 0, 0}<br>x1: слово указывает на совпадение мнений.",
                                         "agree",
@@ -14264,7 +14264,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "add",
+                                        "add\n\nTodo: adds не походит под скрипт",
                                         "x1: присоединение одного объекта/элемента к другому<br>x2: количественное или количественное увеличение<br>x3: дополнение к сказанному (речевое добавление)<br>x4: арифметическое сложение чисел/величин",
                                         "{1, 0, 0, 0}<br>x1: субъект помещает один ингредиент (соль) в другой (суп), присоединяя его.",
                                         "add",
@@ -16043,7 +16043,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "agree",
+                                        "agree\n\nTODO пример в present simple (agreed)",
                                         "x1: соглашаться<br>x2: договариваться<br>x3: совпадать",
                                         "{1, 0, 0}<br>x1: слово указывает на совпадение мнений.",
                                         "agree",
@@ -16373,7 +16373,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "add",
+                                        "add\n\nTodo: adds не походит под скрипт",
                                         "x1: присоединение одного объекта/элемента к другому<br>x2: количественное или количественное увеличение<br>x3: дополнение к сказанному (речевое добавление)<br>x4: арифметическое сложение чисел/величин",
                                         "{1, 0, 0, 0}<br>x1: субъект помещает один ингредиент (соль) в другой (суп), присоединяя его.",
                                         "add",
@@ -19996,7 +19996,7 @@
     "extendNew": 0,
     "extendRev": 0,
     "media_files": [],
-    "name": "Anki-экспорт",
+    "name": "anki-export",
     "newLimit": null,
     "newLimitToday": null,
     "note_models": [

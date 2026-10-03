@@ -8,8 +8,6 @@
   }
 }
 
-ахахах
-
 = Task-0 <task-0>
 == main.cpp
 
