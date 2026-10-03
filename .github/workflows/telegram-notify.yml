@@ -60,6 +60,7 @@ jobs:
           to: ${{ secrets.TELEGRAM_CHAT_TOKEN }}
           token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           format: html
+          disable_web_page_preview: true
           message: |
             <b>${{ steps.check-dir.outputs.title }}</b>
             А именно: ${{ steps.check-dir.outputs.commit_msg }}
