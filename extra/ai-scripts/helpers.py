@@ -2,6 +2,7 @@ import os
 import subprocess
 import shutil
 import re
+import hashlib
 
 def get_readable_size(size_in_bytes):
     if size_in_bytes >= 1024 * 1024:
@@ -50,9 +51,8 @@ def minify_html(html_string):
     html_string = re.sub(r'\s+', ' ', html_string)
     return html_string.strip()
 
-
-def compile_typst_to_html(file_path, root_dir, current_logo_url):
-    output_html_path = os.path.splitext(file_path)[0] + ".html"
+def compile_typst_to_pdf(file_path, root_dir, current_logo_url):
+    output_pdf_path = os.path.splitext(file_path)[0] + ".pdf"
     file_dir = os.path.dirname(os.path.abspath(file_path))
     
     current_check = file_dir
@@ -64,69 +64,41 @@ def compile_typst_to_html(file_path, root_dir, current_logo_url):
             break
         current_check = parent
 
-    real_assets_dir = None
-    if os.path.isdir(os.path.join(file_dir, "assets")):
-        real_assets_dir = os.path.join(file_dir, "assets")
-    elif os.path.isdir(os.path.join(os.path.dirname(file_dir), "assets")):
-        real_assets_dir = os.path.join(os.path.dirname(file_dir), "assets")
-    elif os.path.isdir(os.path.join(project_root, "assets")):
-        real_assets_dir = os.path.join(project_root, "assets")
-
-    created_links = []
-    if real_assets_dir:
-        target_paths = [os.path.join(file_dir, "assets"), os.path.join(project_root, "assets")]
-        for t_path in target_paths:
-            if real_assets_dir != t_path and not os.path.exists(t_path):
-                try:
-                    os.symlink(real_assets_dir, t_path, target_is_directory=True)
-                    created_links.append(t_path)
-                except Exception:
-                    try:
-                        shutil.copytree(real_assets_dir, t_path)
-                        created_links.append(t_path)
-                    except Exception:
-                        pass
-
     cmd = [
         "typst", "compile",
         "--root", project_root,
-        "--features", "html",
-        "--format", "html",
         file_path,
-        output_html_path
+        output_pdf_path
     ]
     
     try:
         subprocess.run(cmd, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, encoding="utf-8", cwd=file_dir)
         success = True
-    except (subprocess.CalledProcessError, FileNotFoundError) as e:
-        print(f"Ошибка компиляции Typst: {e}")
+    except Exception as e:
+        print(f"Ошибка компиляции Typst в PDF: {e}")
         success = False
-    finally:
-        for link in created_links:
-            if os.path.exists(link):
-                if os.path.islink(link): os.unlink(link)
-                else: shutil.rmtree(link)
-                
-    if success and os.path.exists(output_html_path):
-        with open(output_html_path, "r", encoding="utf-8") as f:
-            typst_html = f.read()
-
-        body_content = ""
-        if "<body>" in typst_html and "</body>" in typst_html:
-            body_content = typst_html.split("<body>")[1].split("</body>")[0]
-        else:
-            body_content = typst_html
-
+        
+    if success and os.path.exists(output_pdf_path):
         file_crumbs = generate_breadcrumbs(file_dir, root_dir, is_file=True, file_name=os.path.basename(file_path))
         back_to_root = get_relative_depth(file_dir, root_dir)
+        
+        rel_pdf_url = os.path.basename(output_pdf_path)
 
         ennobled_html = f"""<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>{os.path.basename(file_path)} - Просмотр</title>
+    <title>{os.path.basename(file_path)}</title>
     <link rel="stylesheet" href="{back_to_root}styles.css">
+    <style>
+        .pdf-viewer {{
+            width: 100%;
+            height: calc(100vh - 101px); 
+            border: 1px solid #e1e4e8;
+            box-sizing: border-box;
+            display: block;
+        }}
+    </style>
 </head>
 <body>
 <div class="container">
@@ -137,12 +109,30 @@ def compile_typst_to_html(file_path, root_dir, current_logo_url):
         </div>
     </div>
     <div class="wrapped-content-container">
-        {body_content}
+        <iframe id="pdfPlayer" class="pdf-viewer"></iframe>
     </div>
 </div>
+
+<script>
+    function updatePdfSource() {{
+        const iframe = document.getElementById('pdfPlayer');
+        const hash = window.location.hash;
+        
+        if (hash) {{
+            const targetLabel = hash.replace('#', '');
+            iframe.src = "{rel_pdf_url}#nameddest=" + encodeURIComponent(targetLabel) + "&toolbar=0&navpanes=0";
+        }} else {{
+            iframe.src = "{rel_pdf_url}#toolbar=0&navpanes=0";
+        }}
+    }}
+
+    window.addEventListener('DOMContentLoaded', updatePdfSource);
+    window.addEventListener('hashchange', updatePdfSource);
+</script>
 </body>
 </html>"""
 
+        output_html_path = os.path.splitext(file_path)[0] + ".html"
         with open(output_html_path, "w", encoding="utf-8") as f:
             f.write(ennobled_html)
 

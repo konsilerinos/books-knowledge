@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/*.html": true,
+        "**/*.pdf": true,
+        "**/*.png": true,
+        "**/*.css": true,
+        "**/*.jpg": true,
+        "ai-scripts": true
+    }
+}

@@ -1,7 +1,7 @@
 import os
 import datetime
 from config import SCRIPT_DIR, TARGET_DIR, LOGO_NAME
-from helpers import get_readable_size, generate_breadcrumbs, compile_typst_to_html, get_relative_depth, minify_html
+from helpers import get_readable_size, generate_breadcrumbs, compile_typst_to_pdf, get_relative_depth, minify_html
 import subprocess
 
 def build_index_for_dir(root_dir, current_dir):
@@ -21,8 +21,8 @@ def build_index_for_dir(root_dir, current_dir):
     for item in items:
         if item.lower().endswith(".typ") and not item.startswith("."):
             full_typ_path = os.path.join(current_dir, item)
-            print(f"Компиляция Typst: {os.path.relpath(full_typ_path, root_dir)} -> HTML...")
-            compile_typst_to_html(full_typ_path, root_dir, current_logo_url)
+            print(f"Компиляция Typst в PDF: {os.path.relpath(full_typ_path, root_dir)}...")
+            compile_typst_to_pdf(full_typ_path, root_dir, current_logo_url) 
 
     try:
         items = os.listdir(current_dir)
@@ -36,7 +36,8 @@ def build_index_for_dir(root_dir, current_dir):
         if (item.startswith(".") or 
             item == "index.html" or 
             item.lower() == LOGO_NAME.lower() or
-            item.lower().endswith(".typ")):
+            item.lower().endswith(".typ") or
+            item.lower().endswith(".pdf")): # Пропускаем и .pdf, чтобы они не двоились в таблице с .html
             continue
 
         full_path = os.path.join(current_dir, item)
@@ -80,13 +81,6 @@ def build_index_for_dir(root_dir, current_dir):
         </div>
     </div>
     <table>
-        <thead>
-            <tr>
-                <th>Имя файла / папки</th>
-                <th class="meta-col">Дата изменения</th>
-                <th class="size-col">Размер</th>
-            </tr>
-        </thead>
         <tbody>
 """
 
