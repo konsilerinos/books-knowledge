@@ -1,1 +1,1 @@
-⚠️ **ПРОЕКТ В РАЗРАБОТКЕ** и открыт исключительно для настройки хостинга *GitHub Pages*.
+⚠️ **ПРОЕКТ В РАЗРАБОТКЕ** и открыт исключительно для настройки хостинга *GitHub Pages* ([ссылка](https://konsilerinos.github.io/books-knowledge/extra/index.html))
