@@ -135,13 +135,13 @@ def build_index_for_dir(root_dir, current_dir):
     </table>
     
     <div class="footer-links">
-        <a href="https://github.com" target="_blank" class="footer-link gh-hover">
+        <a href="https://github.com/konsilerinos/books-knowledge" target="_blank" class="footer-link gh-hover">
             <svg width="14" height="14" fill="currentColor"><use href="#icon-link"/></svg>
-            GitHub (todo)
+            GitHub
         </a>
-        <a href="https://t.me" target="_blank" class="footer-link tg-hover">
+        <a href="https://t.me/+Nljv_-BhSJU3MmQy" target="_blank" class="footer-link tg-hover">
             <svg width="14" height="14" fill="currentColor"><use href="#icon-link"/></svg>
-            Telegram-chat (todo)
+            Telegram-chat
         </a>
     </div>
 </div>

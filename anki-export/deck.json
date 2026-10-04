@@ -10184,7 +10184,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Создать псевдонимы типов:\n<br> <br>1. Константный указатель\n<br>2. Указатель на константу\n<br>3. Константный указатель на константу\n<br> <br>Использовать typedef и using",
+                                "Создать псевдонимы типов:\n<br> <br>1. Константный указатель (pc)<br>2. Указатель на константу (cp)<br>3. Константный указатель на константу (cpc)<br> <br>Использовать typedef и using<br><br>TODO",
                                 "1. typedef int *const pc;\n<br>2. typedef int const *cp;\n<br>3. typedef const int *const cpc;\n<br><br>1. using pc = int *const;\n<br>2. using cp = int const*;\n<br>3. using cpc = const int *const;"
                             ],
                             "guid": "OaCMWG.x7Z",
@@ -10197,7 +10197,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу: до тех пор пока не введена строка \"stop\" читать строки из cin потока и выводить их в cout поток. Если строка пустая, то вывести \"empty\"",
-                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks-0-100.html#task-3\">see extra</a>"
+                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks.html#task-3\">see extra</a>"
                             ],
                             "guid": "u8<k3Cwpaf",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -10209,7 +10209,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу: до тех пор пока не введена строка \"stop\" читать строки из cin потока и выводить их размер в cout поток",
-                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks-0-100.html#task-4\">see extra</a>"
+                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks.html#task-4\">see extra</a>"
                             ],
                             "guid": "cwn)u:R$5r",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -10221,7 +10221,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу: до тех пор пока не введена строка \"stop\" вводить пару строк и сравнивать их",
-                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks-0-100.html#task-1\">see extra</a>"
+                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks.html#task-1\">see extra</a>"
                             ],
                             "guid": "Ftgmfh#uiN",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -10233,7 +10233,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Написать программу. На входе int n, char c, на выходе - string из n символов c",
-                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks-0-100.html#task-2\">see extra</a>"
+                                "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks.html#task-2\">see extra</a>"
                             ],
                             "guid": "Fv.jXy*YV/",
                             "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -16800,7 +16800,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "what / how<br><br>Мы можем поехать на пляж на машине. А как же ужасные пробки?<br>We can drive to the beach. {{c1::What}} about the terrible traffic?",
+                                        "what / how<br><br>Мы можем поехать на пляж на машине. А как же ужасные пробки?<br>We can drive to the beach. {{c1::What}} about the terrible traffic?\n\nTODO добавить пустую строку между предложениями",
                                         ""
                                     ],
                                     "guid": "zr~GLfnO-E",
@@ -18855,18 +18855,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "TODO: формула суммы N первых натуральных чисел",
-                                        ""
-                                    ],
-                                    "guid": "B@i^%U{;xH",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                    "tags": [
-                                        "TODO-Математика::Алгебра::Туманов::П-глава-1-положительные-и-отрицательные-числа"
-                                    ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Дать определения:<br>1. Соотношение<br>2. Зависимость<br>3. Формула",
                                         "Соотношение - любая связь между величинами<br><br>Зависимость — это соотношение, в котором значение одной величины однозначно определяется значением другой<br><br>Формула - способ записи соотношений с помощью математических знаков"
                                     ],
@@ -19745,19 +19733,26 @@
                                     "tags": [
                                         "TODO-Математика::Алгебра::Туманов::П-глава-1-положительные-и-отрицательные-числа"
                                     ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Написать формулу расстояния между точками на числовой прямой, соответствующим корням квадратного уравнения<br><br>TODO: формулу нужно вывести",
-                                        "Не вспомнил? Выводи"
-                                    ],
-                                    "guid": "f[[C8Nu+-E",
-                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
-                                    "tags": [
-                                        "TODO-Математика::Алгебра::Туманов::П-глава-1-положительные-и-отрицательные-числа"
-                                    ]
-                                },
+                                }
+                            ],
+                            "reviewLimit": 130,
+                            "reviewLimitToday": null
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "e655e0e5-c029-11f1-bacc-4c1d96739640",
+                            "deck_config_uuid": "ec5acaaa-bc3d-11f1-9326-4c1d96739640",
+                            "desc": "",
+                            "desiredRetention": null,
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "[4] доказательства",
+                            "newLimit": null,
+                            "newLimitToday": null,
+                            "notes": [
                                 {
                                     "__type__": "Note",
                                     "fields": [
@@ -19773,8 +19768,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Доказать, что \\(|a|=|-a|\\), где \\(a\\) - какое-то вещественное число<br><br>TODO",
-                                        "Рассмотри два случая: a положительное и a отрицательное, используй определения (например, \\(|x|\\), где \\(x\\) - какое-то вещественное число)<br><br>Также можешь вспомнить определение абсолютной величины и вообще не париться"
+                                        "1. Доказать, что |a| = |-a|, a in R",
+                                        "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/maths/algebra/proofs.html#proof-1\">see extra</a>"
                                     ],
                                     "guid": "hg0Z-`y`@{",
                                     "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -19785,8 +19780,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Доказать, что \\(|a-b|=|b-a|\\), где \\(a\\) и \\(b\\) - какие-то вещественные числа<br><br>TODO",
-                                        "Используй доказанное свойство \\(|a|=|-a|\\)"
+                                        "2. Доказать, что |a - b| = |b - a|, a и b in R",
+                                        "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/maths/algebra/proofs.html#proof-2\">see extra</a>"
                                     ],
                                     "guid": "EC=dVzSdfN",
                                     "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -19797,8 +19792,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Доказать, что \\(|-a^2|=|a^2|=a^2\\), где \\(a\\) - какое-то вещественное число<br><br>TODO",
-                                        "Используй доказанное свойство \\(|a|=|-a|\\)"
+                                        "3. Доказать, что |-a^2|=|a^2|=a^2, a in R",
+                                        "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/maths/algebra/proofs.html#proof-3\">see extra</a>"
                                     ],
                                     "guid": "d~<hG|qi<Z",
                                     "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -19809,8 +19804,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Доказать, что сумма квадратов двух различных чисел больше удвоенного произведения этих чисел<br><br>TODO",
-                                        "Вспомни формулу квадрата суммы"
+                                        "4. Доказать, что сумма квадратов двух чисел не меньше удвоенного произведения этих чисел",
+                                        "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/maths/algebra/proofs.html#proof-4\">see extra</a>"
                                     ],
                                     "guid": "c^~Zk+]}zc",
                                     "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -19821,8 +19816,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Доказать, что \\(|a+b| \\leq |a| + |b|\\), где \\(a\\) и \\(b\\) - произвольные вещественные числа<br><br>TODO",
-                                        "Рассмотри три случая:<br>1. Оба положительные<br>2. Оба отрицательные<br>3. Одно положительное, одно отрицательное"
+                                        "6. Доказать, что |a + b| &lt;= |a| + |b|, a и b in R",
+                                        "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/maths/algebra/proofs.html#proof-6\">see extra</a>"
                                     ],
                                     "guid": "x.wy9)gx9{",
                                     "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
@@ -19845,7 +19840,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Доказать, что \\(|a\\cdot b| = |a|\\cdot |b|\\), где \\(a\\) и \\(b\\) - произвольные вещественные числа<br><br>TODO",
+                                        "Доказать, что \\(|a \\cdot b| = |a| \\cdot |b|\\), где \\(a\\) и \\(b\\) - произвольные вещественные числа<br><br>TODO",
                                         "Рассмотри три случая:<br>1. Оба положительные<br>2. Оба отрицательные<br>3. Одно положительное, одно отрицательное"
                                     ],
                                     "guid": "D=?Wt~gm>3",
@@ -19877,9 +19872,31 @@
                                     "tags": [
                                         "TODO-Математика::Алгебра::Туманов::П-глава-2-алгебраические-выражения-и-формулы"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "TODO: формула суммы N первых натуральных чисел",
+                                        ""
+                                    ],
+                                    "guid": "B@i^%U{;xH",
+                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "tags": [
+                                        "TODO-Математика::Алгебра::Туманов::П-глава-1-положительные-и-отрицательные-числа"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "5. Доказать, что если для чисел x и С &gt;= 0 выполняется двойное неравенство -C &lt;= x &lt;= C, то |x| &lt;= C",
+                                        "<a href=\"https://konsilerinos.github.io/books-knowledge/extra/maths/algebra/proofs.html#proof-5\">see extra</a>"
+                                    ],
+                                    "guid": "Q7<R<qr+^*",
+                                    "note_model_uuid": "ec5ac0a3-bc3d-11f1-8d5b-4c1d96739640",
+                                    "tags": []
                                 }
                             ],
-                            "reviewLimit": 130,
+                            "reviewLimit": null,
                             "reviewLimitToday": null
                         }
                     ],

@@ -1,16 +1,13 @@
-#set page(paper: "a4", margin: (x: 1cm, y: 1cm))
+#set page(
+  paper: "a4",
+  margin: (x: 1cm, y: 1cm),
+  // height: auto
+)
 
-#show heading: it => {
-  if it.has("label") {
-    [#link(it.label)[]] + it
-  } else {
-    it
-  }
-}
+// Ссылка на ресурс:
+// <a href="https://konsilerinos.github.io/books-knowledge/extra/cpp/tasks-0-100.html#task-2">see extra</a>
 
-= Task-0 <task-0>
-== main.cpp
-
+= 0. Hello-world <task-0>
 ```cpp
 #include <iostream>
 
@@ -21,9 +18,7 @@ int main()
 }
 ```
 
-= Task-1 <task-1>
-== main.cpp
-
+= 1. До тех пор пока не введена строка "stop" вводить пару строк и сравнивать их <task-1>
 ```cpp
 #include <iostream>
 
@@ -68,9 +63,7 @@ int main()
 }
 ```
 
-= Task-2 <task-2>
-== main.cpp
-
+= 2. На входе int n, char c, на выходе - string из n символов c <task-2>
 ```cpp
 #include <iostream>
 
@@ -96,9 +89,7 @@ int main()
 }
 ```
 
-= Tak-3 <task-3>
-== main.cpp
-
+= 3. До тех пор пока не введена строка "stop" читать строки из cin потока и выводить их в cout поток. Если строка пустая, то вывести "empty" <task-3>
 ```cpp
 #include <iostream>
 
@@ -130,9 +121,7 @@ int main()
 }
 ```
 
-= Task-4 <task-4>
-== main.cpp
-
+= 4. До тех пор пока не введена строка "stop" читать строки из cin потока и выводить их размер в cout поток <task-4>
 ```cpp
 #include <iostream>
 
