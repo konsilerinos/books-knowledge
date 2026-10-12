@@ -7,6 +7,8 @@
 
 #show math.equation.where(block: true): set align(left)
 
+Я не математик, обновляю материалы по мере собственного обучения, поэтому могу допускать ошибки и неточности, осторожнее с этим!
+
 = 1. Доказать, что $|a| = | -a |$, $a in bb(R)$ <proof-1>
 // <a href="https://konsilerinos.github.io/books-knowledge/extra/maths/algebra/proofs.html#proof-1">see extra</a>
 
@@ -134,7 +136,7 @@ $|a + b| <= C => |a + b| <= |a| + |b|$, чтд
 = 7. Найти корни квадратного уравнения $a x^2 + b x + c = 0, 1 a != 0$ <proof-7>
 // <a href="https://konsilerinos.github.io/books-knowledge/extra/maths/algebra/proofs.html#proof-7">see extra</a>
 
-$ a x^2 + b x + x = 0 | dot 1/a $
+$ a x^2 + b x + c = 0 | dot 1/a $
 $ x^2 + b_a x + c_a = 0, b_a = b/a, c_a = c/a $
 $ "Если" x_1 "и" x_2 "- корни, то" $
 $ (x - x_1)(x - x_2) = 0 $
@@ -158,13 +160,61 @@ $ (x_1 + x_2)^2 = x_1^2 + 2 x_1 x_2 + x_2^2 $
 $ (x_1 - x_2)^2 = x_1^2 - 2 x_1 x_2 + x_2^2 $
 $ (x_1 - x_2)^2 = (x_1^2 + 2 x_1 x_2 + x_2^2) - 2x_1x_2 - 2x_1x_2 = (x_1 + x_2)^2 - 4x_1x_2 = b_a^2 - 4 c_a $
 $ "Пусть" x_1 >= x_2 ", тогда" $
-$ x_1 - x_2 = sqrt(b_a^2 - 4c_a) = sqrt(b^2/a^2 - (4c)/a) = sqrt((b^2 - 4 a c)/a^2) $
+$ x_1 - x_2 = sqrt(b_a^2 - 4c_a) = sqrt(b^2/a^2 - (4c)/a) = sqrt((b^2 - 4 a c)/a^2) = sqrt(b^2 - 4 a c) / abs(a) $
 
-Далее заметил что очень неаккрутно раскрыл модули. Это нужно доработать и после вернуться к данному материалу
+$ "Пусть" a>0 ", тогда" x_1 - x_2 = sqrt(b^2 - 4 a c)/a $
 
+$ cases(
+  display(x_1 + x_2 = -b/a),
+  display(x_1 - x_2 = sqrt(b^2 - 4 a c)/a)
+) $
+#line()
+$ 2 x_1 = -b/a + sqrt(b^2 - 4 a c)/a = (-b + sqrt(b^2 - 4 a c))/a => x_1 = (-b + sqrt(b^2 - 4 a c))/(2a) $
+$ x_2 = x_1 - sqrt(b^2 - 4 a c)/(a) = (-b + sqrt(b^2 - 4 a c))/(2a) - (2 sqrt(b^2 - 4 a c))/(2a) = (-b - sqrt(b^2 - 4 a c))/(2a) $
 
+$ "Пусть" a < 0 ", тогда" x_1 - x_2 = -sqrt(b^2 - 4 a c)/a $
+$ cases(
+  display(x_1 + x_2 = -b/a),
+  display(x_1 - x_2 = -sqrt(b^2 - 4 a c)/a)
+) $
+#line()
+$ 2 x_1 = -b/a - sqrt(b^2 - 4 a c)/a = -(b + sqrt(b^2 - 4 a c))/a => x_1 = (-b - sqrt(b^2 - 4 a c))/(2a) $
+$ x_2 = x_1 + sqrt(b^2 - 4 a c)/a = (-b - sqrt(b^2 - 4 a c))/(2a) + (2 sqrt(b^2 - 4 a c))/(2a) = (-b + sqrt(b^2 - 4 a c))/(2a) $
 
+$ "Пусть" x_1 < x_2 ", тогда" -(x_1 - x_2) = sqrt(b^2 - 4 a c) / abs(a) "или" x_1 - x_2 = -sqrt(b^2 - 4 a c)/abs(a) $
 
+Раскрытие модуля аналогично ранее рассмотрену и даст результат с противоположным знаком, поэтому итоговый ответ:
 
+$ x_(12) = (-b + sqrt(b^2 - 4 a c))/(2a) "при условии существования" x_1 "и" x_2 ", чтд" $
 
+= 8. Вывести формулы теоремы Виета для квадратного уравнения $a x^2 + b x + c = 0, 1 a != 0$ <proof-8>
+// <a href="https://konsilerinos.github.io/books-knowledge/extra/maths/algebra/proofs.html#proof-8">see extra</a>
 
+$ a x^2 + b x + c = 0 | dot 1/a $
+$ x^2 + b_a x + c_a = 0, b_a = b/a, c_a = c/a $
+$ "Если" x_1 "и" x_2 "- корни, то" $
+$ (x - x_1)(x - x_2) = 0 $
+$ x^2 + x dot(-x_1 - x_2) + x_1 x_2 = 0 $
+$ cases(
+  a = 1,
+  b_a = -x_1 - x_2,
+  c_a = x_1 x_2
+) $
+
+Внезапно, теорема Виета, чтд
+
+$ cases(
+  display(x_1 + x_2 = -b_a),
+  display(x_1 x_2 = c_a)
+) "или" cases(
+  display(x_1 + x_2 = -b/a),
+  display(x_1 x_2 = c/a)
+) $
+
+= 9. Найти сумму первых $N$ натуральных чисел <proof-9>
+// <a href="https://konsilerinos.github.io/books-knowledge/extra/maths/algebra/proofs.html#proof-9">see extra</a>
+
+$ 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 10 + 10 dot (10/2 - 1) + 10/2 $
+$ "Если " N=10 ", то" sum_(i=1..N) i = N + N^2/2  - N + N/2 = (N dot (N + 1))/2 $
+
+Решение дилетантское и требует доказательства методом математической индукции например, пока что оставлю так
